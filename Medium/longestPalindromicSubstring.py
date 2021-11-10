@@ -4,9 +4,6 @@ Given a string s, return the longest palindromic substring in s.
 '''
 
 
-
-
-
 # s = "baabaad"
 # s ="cbbd"
 # s ="ac"
