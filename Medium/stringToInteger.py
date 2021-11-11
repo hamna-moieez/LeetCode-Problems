@@ -22,7 +22,7 @@ and integers greater than 231 - 1 should be clamped to 231 - 1.
 6- Return the integer as the final result.
 
 '''
-
+   
 s = "w142"
 def myAtoi(s: str) -> int:
     integer = 0
