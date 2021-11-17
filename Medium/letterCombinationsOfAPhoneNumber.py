@@ -25,6 +25,7 @@ lst = []
 for i in range(len(digits)):
     val = mapper[digits[i]]
     lst.append(val)
+# Find cartesian product of values
 for element in product(*lst):
     combs.append(''.join(element))
 print(combs)
